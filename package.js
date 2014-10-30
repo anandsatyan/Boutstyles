@@ -1,8 +1,8 @@
 Package.describe({
-	name: "ewall:foundation",
-	summary: "Foundation by ZURB - an advanced responsive web framework",
+	name: "anandsatyan:boutstyles",
+	summary: "Boutline Theme Files",
 	version: "5.4.0",
-	git: "https://github.com/ewall/meteor-foundation"
+	git: "https://github.com/anandsatyan/Boutstyles.git"
 });
 
 Package.on_use(function (api) {
